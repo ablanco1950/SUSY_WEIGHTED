@@ -24,7 +24,7 @@ For this reason, the suggestion indicated in the textbook: Artificial Intelligen
 In various iterative steps, adjusting the values ??of the priority of each record and, within each record, the priority of each field, to the maximum number of hits, they were iteratively obtained (the output of each step was the input of the next step), the following results:
 
 PrepareSusyWeighted_0 4,225,049 hits (84.50%)
-PrepareSusyWeighted_1 4,268,586 hits (85.37%)
+PrepareSusyWeighted_1 4,268,586 hits (85.37%).
 PrepareSusyWeighted_2 4,422,817 hits (88.45%)
 PrepareSusyWeighted_3 4,486,726 hits (89.73%)
 PrepareSusyWeighted_4 4,512,406 hits (90.25%)
