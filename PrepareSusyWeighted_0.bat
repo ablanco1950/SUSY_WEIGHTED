@@ -1,0 +1,1 @@
+java -jar PrepareSusyWeighted_0.jar c:\SUSY.csv c:\SUSY.csv
