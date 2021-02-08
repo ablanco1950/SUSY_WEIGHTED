@@ -40,12 +40,12 @@ public class AssignClassWithSusyWeighted {
 		    int NumCampos =9;
 		    int TopeMemoria = 400002;
 		    
-		    Double [][] Tabvotos0 = new Double[NumCampos][TopeMemoria];
-		    Double [][] Tabvotos1 = new Double[NumCampos][TopeMemoria];
+		    Double [][] Tabvotos0 = new Double[NumCampos][TopeMemoria+1];
+		    Double [][] Tabvotos1 = new Double[NumCampos][TopeMemoria+1];
 		   
 		    for (int i=0; i<NumCampos;i++)
 		    {
-		    	for (int j=0;j<TopeMemoria;j++)
+		    	for (int j=0;j<TopeMemoria+1;j++)
 		    	{
 		    		Tabvotos0[i][j]=0.0;
 		    		Tabvotos1[i][j]=0.0;
