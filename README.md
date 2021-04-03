@@ -1,6 +1,6 @@
 The considerations of this work are erroneous. I keep it in case it had been referenced and as a curiosity since it is a case in which an excessive adaptation to the training file can cause erroneous resolves when applied to a different test file.
 
-I refer to the most updated version
+I refer to the most updated version https://github.com/ablanco1950/SUSY_WEIGHTED_V1
 
 
 # SUSY_WEIGHTED: from the SUSY.csv training  file (https://archive.ics.uci.edu/ml/datasets/SUSY), create a weighted SUSY that, together with a program included in the project, allows obtain success rates higher than 90%. This precision can be increased by following the iterative method of the project.
