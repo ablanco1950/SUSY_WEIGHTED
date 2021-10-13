@@ -1,4 +1,4 @@
-The considerations of this work are erroneous. I keep it in case it had been referenced and as a curiosity since it is a case in which an excessive adaptation to the training file can cause erroneous resolves when applied to a different test file.
+The considerations of this work are erroneous. I keep it in case it had been referenced and as a curiosity since it is a case in which an excessive adaptation to the training file can cause erroneous resolves when applied to a different test file (overfitting).
 
 I refer to the most updated version https://github.com/ablanco1950/SUSY_WEIGHTED_V1
 
